@@ -35,3 +35,4 @@
 
 # Ignore sorbet
 /sorbet/*
+/bin/tapioca
